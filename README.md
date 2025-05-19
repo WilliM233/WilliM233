@@ -9,6 +9,13 @@
 - TypeScript & Tailwind CSS
 - Building modern web apps from scratch
 
+## 🧰 Tech Stack  
+- 💻 Languages: JavaScript, TypeScript, C#  
+- 🌐 Frontend: React, Tailwind CSS, HTML/CSS  
+- 🛠️ Backend: Node.js, Express  
+- 🗄️ Database: MongoDB  
+- ⚙️ Tools: Git, VS Code, Postman
+
 ## 🛠️ Projects
 - 🔧 [melting-pot](https://github.com/WillliM233/melting-pot) – A multi-project hub for full stack experiments
 
