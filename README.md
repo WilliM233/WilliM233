@@ -17,7 +17,7 @@
 - ⚙️ Tools: Git, VS Code, Postman
 
 ## 🛠️ Projects
-- 🔧 [melting-pot](https://github.com/WillliM233/melting-pot) – A multi-project hub for full stack experiments
+- 🔧 [melting-pot](https://github.com/WilliM233/melting-pot) – A multi-project hub for full stack experiments
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/william-melton-2954a6149/)
