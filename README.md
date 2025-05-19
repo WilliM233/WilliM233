@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey there, I'm William Melton
 
-<!--
-**WilliM233/WilliM233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. in Information Technology  
+💻 Aspiring Full Stack Developer | C#, JavaScript, React, Node.js  
+🌈 Passionate about accessibility, inclusive design, and tech for good
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
+- Full stack web development (MERN stack)
+- TypeScript & Tailwind CSS
+- Building modern web apps from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🔧 [melting-pot](https://github.com/WillliM233/melting-pot) – A multi-project hub for full stack experiments
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/william-melton-2954a6149/)
