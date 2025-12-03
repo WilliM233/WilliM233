@@ -5,7 +5,7 @@
 🌈 Passionate about accessibility, inclusive design, and tech for good
 
 ## 🧠 Currently Learning
-- Full stack web development (MERN stack)
+- Full stack web development
 - TypeScript & Tailwind CSS
 - Building modern web apps from scratch
 
