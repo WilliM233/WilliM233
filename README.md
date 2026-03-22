@@ -17,7 +17,9 @@
 - ⚙️ Tools: Git, VS Code, Postman
 
 ## 🛠️ Projects
-- 🔧 [melting-pot](https://github.com/WilliM233/melting-pot) – A multi-project hub for full stack experiments
+- [Brain 3.0](https://github.com/WilliM233/brain3) - An AI Powered Life Automation System
+- [FluxNook](https://github.com/WilliM233/fluxnook) - Media Collection Tracker
+- [KayFlux](https://github.com/WilliM233/kayflux) - AI Powered WWE 2k26 Companion App
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/william-melton-2954a6149/)
